@@ -1,1 +1,1 @@
-From quay.io/k8scsi/csi-attacher:v2.2.0
+From k8s.gcr.io/sig-storage/csi-attacher:v3.0.2
